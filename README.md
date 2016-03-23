@@ -1,3 +1,3 @@
 # hello-world
-Getting started on GitHub
+Getting started on GitHub - 
 Newbie coder, Sagittarius, coffee drinker, bookworm, animal lover
